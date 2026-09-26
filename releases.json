@@ -1,5 +1,21 @@
 [
   {
+    "versionName": "20260926.2347",
+    "versionCode": 3543827,
+    "apk": "apk/clip-modem-emulator-20260926.2347.apk",
+    "size": 1465039,
+    "sha256": "1e63db44c2a26bfe81a307b8e6be5466a62814a82ba5177299d8ca2d7576396f",
+    "certSha256": "5a398bf39e1e7836989df3d71cd9a493bcee8754a3f347ff895d305368ecf187",
+    "minSdk": 26,
+    "abis": [
+      "arm64-v8a",
+      "x86_64"
+    ],
+    "date": "2026-09-26",
+    "build": "plat a69df67 app 0050aba",
+    "notes": "버전 체계를 YYYYMMDD.HHMM(릴리즈 시각)으로 바꿨습니다."
+  },
+  {
     "versionName": "1.0.0",
     "versionCode": 1000000,
     "apk": "apk/clip-modem-emulator-1.0.0.apk",

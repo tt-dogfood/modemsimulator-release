@@ -5,10 +5,10 @@ LG 가전 Wi-Fi 모뎀 펌웨어(CLIP)를 Android 기기에서 모뎀처럼 실�
 
 ## 설치
 
-최신 버전은 **v1.0.0** (2026-09-26) 입니다.
+최신 버전은 **v20260926.2347** (2026-09-26) 입니다.
 
-- 폰에서 받기: [clip-modem-emulator-1.0.0.apk](https://raw.githubusercontent.com/tt-dogfood/modemsimulator-release/main/apk/clip-modem-emulator-1.0.0.apk)
-- PC 에서 설치: `adb install -r clip-modem-emulator-1.0.0.apk`
+- 폰에서 받기: [clip-modem-emulator-20260926.2347.apk](https://raw.githubusercontent.com/tt-dogfood/modemsimulator-release/main/apk/clip-modem-emulator-20260926.2347.apk)
+- PC 에서 설치: `adb install -r clip-modem-emulator-20260926.2347.apk`
 - Android API 26 이상, arm64-v8a / x86_64 기기
 
 폰 브라우저로 받아 설치하려면 그 브라우저에 ‘알 수 없는 앱 설치’ 권한을 허용해야 합니다.
@@ -25,6 +25,7 @@ LG 가전 Wi-Fi 모뎀 펌웨어(CLIP)를 Android 기기에서 모뎀처럼 실�
 
 | 버전 | 날짜 | 변경 내용 |
 | --- | --- | --- |
+| [v20260926.2347](https://raw.githubusercontent.com/tt-dogfood/modemsimulator-release/main/apk/clip-modem-emulator-20260926.2347.apk) | 2026-09-26 | 버전 체계를 YYYYMMDD.HHMM(릴리즈 시각)으로 바꿨습니다. |
 | [v1.0.0](https://raw.githubusercontent.com/tt-dogfood/modemsimulator-release/main/apk/clip-modem-emulator-1.0.0.apk) | 2026-09-26 | 첫 배포. 앱 메뉴 > 업데이트 확인으로 새 버전을 받아 설치할 수 있습니다. |
 
 ## 파일
