@@ -1,5 +1,21 @@
 [
   {
+    "versionName": "20260930.0739",
+    "versionCode": 3548619,
+    "apk": "apk/clip-modem-emulator-20260930.0739.apk",
+    "size": 1477279,
+    "sha256": "db36499e43cc6ccf1d8bfebbd6efb07b856beb9de941b1fd7d473ec7156b0dab",
+    "certSha256": "5a398bf39e1e7836989df3d71cd9a493bcee8754a3f347ff895d305368ecf187",
+    "minSdk": 26,
+    "abis": [
+      "arm64-v8a",
+      "x86_64"
+    ],
+    "date": "2026-09-30",
+    "build": "plat 2ceb282 app 096cd68",
+    "notes": ""
+  },
+  {
     "versionName": "20260926.2347",
     "versionCode": 3543827,
     "apk": "apk/clip-modem-emulator-20260926.2347.apk",
