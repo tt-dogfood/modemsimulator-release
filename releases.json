@@ -1,5 +1,21 @@
 [
   {
+    "versionName": "20261004.2159",
+    "versionCode": 3555239,
+    "apk": "https://github.com/tt-dogfood/modemsimulator-release/releases/download/v20261004.2159/clip-modem-emulator-20261004.2159.apk",
+    "size": 1496451,
+    "sha256": "d7b975758e1c20fc4774025cd7937a962b900ce0e1e31e6e5a4c00ea8c7289ea",
+    "certSha256": "5a398bf39e1e7836989df3d71cd9a493bcee8754a3f347ff895d305368ecf187",
+    "minSdk": 26,
+    "abis": [
+      "arm64-v8a",
+      "x86_64"
+    ],
+    "date": "2026-10-04",
+    "build": "plat b843b77 bsp 56a5f84 app 9dca5d0",
+    "notes": "가상 제품 MCU(HA 세탁기) 추가: 설정의 추가 인자에 --uart sim:washer 를 넣으면 제품 UART 에 가상 세탁기가 연결된다. 콘솔 명령 host prod (key wifi, baud, send, fault 등)."
+  },
+  {
     "versionName": "20260930.0739",
     "versionCode": 3548619,
     "apk": "apk/clip-modem-emulator-20260930.0739.apk",
